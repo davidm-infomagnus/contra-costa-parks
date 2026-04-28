@@ -26,3 +26,15 @@ footer {
     background-color: #2d6a4f;
     color: white;
 }
+
+/* Trail page styles */
+.trail-card {
+    border: 2px solid #2d6a4f;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    background-color: #d8f3dc;
+}
+.trail-card h3 {
+    color: #1b4332;
+}
